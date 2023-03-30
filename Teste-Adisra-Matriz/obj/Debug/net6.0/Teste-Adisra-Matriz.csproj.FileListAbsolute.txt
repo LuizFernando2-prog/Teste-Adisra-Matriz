@@ -1,0 +1,5 @@
+C:\Users\MrGWo\source\repos\Teste-Adisra-Matriz\obj\Debug\net6.0\Teste-Adisra-Matriz.csproj.AssemblyReference.cache
+C:\Users\MrGWo\source\repos\Teste-Adisra-Matriz\obj\Debug\net6.0\Teste-Adisra-Matriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MrGWo\source\repos\Teste-Adisra-Matriz\obj\Debug\net6.0\Teste-Adisra-Matriz.AssemblyInfoInputs.cache
+C:\Users\MrGWo\source\repos\Teste-Adisra-Matriz\obj\Debug\net6.0\Teste-Adisra-Matriz.AssemblyInfo.cs
+C:\Users\MrGWo\source\repos\Teste-Adisra-Matriz\obj\Debug\net6.0\Teste-Adisra-Matriz.csproj.CoreCompileInputs.cache
